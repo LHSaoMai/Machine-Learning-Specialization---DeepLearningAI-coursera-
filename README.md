@@ -13,7 +13,9 @@
 * **Week 1 - Quizz**  
 [Quizz 1 - Supervised vs unsupervised learning](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W1%20-%20Introduction%20to%20Machine%20Learning/W1%20-%20Quizz/Quizz%201%20-%20Supervised%20vs%20unsupervides%20learning.jpeg)  
 [Quizz 2 - Regression model](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W1%20-%20Introduction%20to%20Machine%20Learning/W1%20-%20Quizz/Quizz%202%20-%20Regression%20Model.jpeg)  
-[Quizz 3 - Train the model with gradient descent]()  
+[Quizz 3 - Train the model with gradient descent](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W1%20-%20Introduction%20to%20Machine%20Learning/W1%20-%20Quizz/Week%201%20-%20Quizz%203.jpeg)  
 
+[**Week 2 - Regression with multiple input variable**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression)
 
+* **Week 2 - Lab**  
 
