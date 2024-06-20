@@ -45,5 +45,11 @@
 [Optional lab 9: Regularization](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab09_Regularization_Soln.ipynb)  
 [Graded lab: logistic regression](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Assignment/C1_W3_Logistic_Regression.ipynb)  
 
+* **Week 3 - Quizz**  
+[Quizz 1 - Classificstion with logistic regression (a-b)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Quizz/Quizz%201a%20-%20Classificstion%20with%20logistic%20regression.jpeg)    
+[Quizz 2 - Cost function for logistic regression](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Quizz/Quizz%202%20-%20Cost%20function%20for%20logistic%20regression.jpeg)  
+[Quizz 3 - Gradient descent for logistic regression](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Quizz/Quizz%203%20-%20Gradient%20descent%20for%20logistic%20regression.jpeg)  
+[Quizz 4 - The problem of overfitting](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Quizz/Quizz%204%20-%20The%20problem%20of%20overfitting.jpeg)    
+
 
 
