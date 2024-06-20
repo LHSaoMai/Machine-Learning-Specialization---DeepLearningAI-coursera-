@@ -69,4 +69,10 @@ This course was done in 2024.
 [Quizz 3 - TransorFlow implementation](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Quizz/W1%20-%20Q3%20-%20TransorFlow%20implementa.jpeg)   
 [Quizz 4 - Neural network implementation](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Quizz/W1%20-%20Q4a%20-%20Neural%20network%20implementation.jpeg)      
 
+[**Week 2 - Neural network training**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training)  
 
+* **Week 2 - Lab**  
+[Optional lab 1: Relu](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Optional%20Lab/C2_W2_Relu.ipynb)    
+[Optional lab 2:SoftMax](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Optional%20Lab/C2_W2_SoftMax.ipynb)    
+[Optional lab 3: Multiclass](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Optional%20Lab/C2_W2_Multiclass_TF.ipynb)   
+[Graded lab: ]()
