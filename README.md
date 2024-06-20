@@ -51,5 +51,13 @@
 [Quizz 3 - Gradient descent for logistic regression](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Quizz/Quizz%203%20-%20Gradient%20descent%20for%20logistic%20regression.jpeg)  
 [Quizz 4 - The problem of overfitting](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Quizz/Quizz%204%20-%20The%20problem%20of%20overfitting.jpeg)    
 
+## **Course 2 - Advanced Learning Algorithms** 
 
+[**Week 1 - Neural networks**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks)
+
+* **Week 1 - Lab**  
+[Optional lab 1: Neurons_and_Layers](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab01_Neurons_and_Layers.ipynb)  
+[Optional lab 2: CoffeeRoasting](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)  
+[Optional lab 3: CoffeeRoasting_Numpy](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)  
+[Graded lab: Neural Networks for Binary Classification](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Assignment/C2_W1_Assignment.ipynb)  
 
