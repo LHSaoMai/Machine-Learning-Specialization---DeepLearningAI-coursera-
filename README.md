@@ -77,4 +77,11 @@ This course was done in 2024.
 [Optional lab 3: Multiclass](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Optional%20Lab/C2_W2_Multiclass_TF.ipynb)
 [Optional lab 4: Derivatives](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Optional%20Lab/Lab%20Derivatives%20and%20backprop/C2_W2_Derivatives.ipynb)
 [Optional lab 5: Back propagation](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Optional%20Lab/Lab%20Derivatives%20and%20backprop/C2_W2_Backprop.ipynb)   
-[Graded lab: Neural Networks for Multiclass classification](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Assignment/C2_W2_Assignment.ipynb)  
+[Graded lab: Neural Networks for Multiclass classification](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Assignment/C2_W2_Assignment.ipynb)
+
+* **Week 2 - Quizz**  
+[Quizz 1 - ](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)    
+[Quizz 2 - ](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)    
+[Quizz 3 - ](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)   
+[Quizz 4 -Additional Neural Network Concepts]()      
+
