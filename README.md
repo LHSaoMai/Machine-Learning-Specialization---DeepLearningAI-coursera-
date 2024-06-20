@@ -93,6 +93,8 @@ This course was done in 2024.
 [Graded lab: Advice for applying machine learning](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Assignment/C2_W3_Assignment.ipynb)
 
 
-
-
+* **Week 3 - Quizz**  
+[Quizz 1 - Advice for applying machine learning (a-b)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Quizz/W3%20-%20Q1.a%20-%20Advice%20for%20applying%20machine%20learning.jpeg)    
+[Quizz 2 - Bias and variance (a-d)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Quizz/W3%20-%20Q2.a%20-%20Bias%20and%20variance.jpeg)    
+[Quizz 3 - Machine learning development process (a-c)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Quizz/W3%20-%20Q3a%20-%20Machine%20learning%20development%20process.jpeg)   
 
