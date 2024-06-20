@@ -83,5 +83,7 @@ This course was done in 2024.
 [Quizz 1 - ](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)    
 [Quizz 2 - ](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)    
 [Quizz 3 - ](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)   
-[Quizz 4 -Additional Neural Network Concepts]()      
+[Quizz 4 -Additional Neural Network Concepts]()
+
+
 
