@@ -134,6 +134,13 @@ This course was done in 2024.
 [Optinal lab 1: State-action value functio](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning/W3%20-%20Optional%20Lab/State-action%20value%20function%20example.ipynb)   
 [Graded lab : Reinforcement learning](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning/W3%20-%20Assignment/C3_W3_A1_Assignment.ipynb)
 
+* **Week 3 - Quizz**  
+[Quizz 1 - Reinforcement learning introduction](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning/W3%20-%20Quizz/W3%20-%20Quizz%201.pdf)   
+[Quizz 2 -State-action value function](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning/W3%20-%20Quizz/W3%20-%20Quizz%202.pdf)    
+[Quizz 3 - Continuous state spaces](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning/W3%20-%20Quizz/W3%20-%20Quizz%203.pdf)  
+
+
+
 
 
 
