@@ -5,7 +5,7 @@
 [**Week 1 - Introduction to machine learning**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification)
 
 * **Week 1 - Lab**  
-[Optional 1: Python Jupyter](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W1%20-%20Introduction%20to%20Machine%20Learning/W1%20-%20Optional%20lab/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)  
+[Optional lab 1: Python Jupyter](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W1%20-%20Introduction%20to%20Machine%20Learning/W1%20-%20Optional%20lab/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)  
 [Optional lab 2: Model_Representation](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W1%20-%20Introduction%20to%20Machine%20Learning/W1%20-%20Optional%20lab/C1_W1_Lab02_Model_Representation_Soln.ipynb)  
 [Optional lab 3: Cost_function](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W1%20-%20Introduction%20to%20Machine%20Learning/W1%20-%20Optional%20lab/C1_W1_Lab03_Cost_function_Soln.ipynb)  
 [Optional lab 4: Gradient descent](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W1%20-%20Introduction%20to%20Machine%20Learning/W1%20-%20Optional%20lab/C1_W1_Lab04_Gradient_Descent_Soln.ipynb)
@@ -18,7 +18,7 @@
 [**Week 2 - Regression with multiple input variable**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression)
 
 * **Week 2 - Lab**  
-[Optional 1: Python_Numpy_Vectorization](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression/W2%20-%20Optional%20Lab)  
+[Optional lab 1: Python_Numpy_Vectorization](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression/W2%20-%20Optional%20Lab)  
 [Optional lab 2: Multiple_Variable](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression/W2%20-%20Optional%20Lab)  
 [Optional lab 3: Feature_Scaling_and_Learning_Rate](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression/W2%20-%20Optional%20Lab)  
 [Optional lab 4: Feature Engineering and Polynomial Regression](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression/W2%20-%20Optional%20Lab)
@@ -29,6 +29,21 @@
 * **Week 2 - Quizz**  
 [Quizz 1 - Multiple linear regression (a-b)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression/W2%20-%20Quizz/Quizz%201a%20-%20Multilple%20linear%20regression.jpeg)    
 [Quizz 2 - Gradient descent (a-c)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W2%20-%20Linear%20Regression/W2%20-%20Quizz/Quizz%202a%20-%20Gradient%20descent.jpeg)  
+
+
+[**Week 3 - Classification**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification)  
+
+* **Week 3 - Lab**  
+[Optional lab 1: _Classification](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab01_Classification_Soln.ipynb)    
+[Optional lab 2: Sigmoid_function](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)   
+[Optional lab 3: Decision_Boundary](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)     
+[Optional lab 4: LogisticLoss](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab04_LogisticLoss_Soln.ipynb)  
+[Optional lab 5: Cost_Function](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab05_Cost_Function_Soln.ipynb)  
+[Optional lab 6: Gradient_Descent](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)     
+[Optional lab 7: Scikit_Learn](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)   
+[Optional lab 8: Overfitting](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab08_Overfitting_Soln.ipynb)  
+[Optional lab 9: Regularization](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Optional%20Lab/C1_W3_Lab09_Regularization_Soln.ipynb)  
+[Graded lab: logistic regression](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/W3%20-%20Classification/W3%20-%20Assignment/C1_W3_Logistic_Regression.ipynb)  
 
 
 
