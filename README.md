@@ -59,5 +59,13 @@
 [Optional lab 1: Neurons_and_Layers](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab01_Neurons_and_Layers.ipynb)  
 [Optional lab 2: CoffeeRoasting](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)  
 [Optional lab 3: CoffeeRoasting_Numpy](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)  
-[Graded lab: Neural Networks for Binary Classification](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Assignment/C2_W1_Assignment.ipynb)  
+[Graded lab: Neural Networks for Binary Classification](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Assignment/C2_W1_Assignment.ipynb)
+
+
+* **Week 1 - Quizz**  
+[Quizz 1 - Neural networks intuitions](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Quizz/W1%20-%20Q1%20-%20Neural%20networks%20intuitions.jpeg)    
+[Quizz 2 - Neural network model](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Quizz/W1%20-%20Q2%20-%20Neural%20network%20model.jpeg)    
+[Quizz 3 - TransorFlow implementation](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Quizz/W1%20-%20Q3%20-%20TransorFlow%20implementa.jpeg)   
+[Quizz 4 - Neural network implementation](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Quizz/W1%20-%20Q4a%20-%20Neural%20network%20implementation.jpeg)      
+
 
