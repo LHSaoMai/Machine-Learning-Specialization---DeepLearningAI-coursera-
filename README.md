@@ -92,9 +92,22 @@ This course was done in 2024.
 [Optional lab 2: Diagnosing_Bias_and_Variance](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Optional%20lab/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)  
 [Graded lab: Advice for applying machine learning](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Assignment/C2_W3_Assignment.ipynb)
 
-
 * **Week 3 - Quizz**  
-[Quizz 1 - Advice for applying machine learning (a-b)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Quizz/W3%20-%20Q1.a%20-%20Advice%20for%20applying%20machine%20learning.jpeg)    
+[Quizz 1 - Advice for applying machine learning (a-b)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Quizz/W3%20-%20Q1.a%20-%20Advice%20for%20applying%20machine%20learning.jpeg)   
 [Quizz 2 - Bias and variance (a-d)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Quizz/W3%20-%20Q2.a%20-%20Bias%20and%20variance.jpeg)    
-[Quizz 3 - Machine learning development process (a-c)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Quizz/W3%20-%20Q3a%20-%20Machine%20learning%20development%20process.jpeg)   
+[Quizz 3 - Machine learning development process (a-c)](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Quizz/W3%20-%20Q3a%20-%20Machine%20learning%20development%20process.jpeg)
+
+[**Week 4 - Decision Trees**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees)  
+
+ * **Week 4 - Lab**  
+[Optional lab 1: Decision_Trees](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Optional%20Lab/C2_W4_Lab_01_Decision_Trees.ipynb)  
+[Optional lab 2: Tree_Ensemble](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Optional%20Lab/C2_W4_Lab_02_Tree_Ensemble.ipynb)  
+[Graded lab: Decision Trees](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Assignment/C2_W4_Decision_Tree_with_Markdown.ipynb)
+
+* **Week 4 - Quizz**  
+[Quizz 1 - Decision trees](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Quizz/W4%20-%20Quizz%201.pdf)   
+[Quizz 2 - Decision trees learning](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Quizz/W4%20-%20Quizz%202.pdf)    
+[Quizz 3 - ]()
+
+
 
