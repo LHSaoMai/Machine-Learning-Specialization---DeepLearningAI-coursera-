@@ -83,7 +83,16 @@ This course was done in 2024.
 [Quizz 1 - Neural Network training](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)    
 [Quizz 2 - Activation Functions](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)    
 [Quizz 3 - Multiclass Classification](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/Course%202%20-%20Week%202%20-%20Quiz.pdf)   
-[Quizz 4 -Additional Neural Network Concepts](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/W2%20-%20Quizz%204.pdf)  
+[Quizz 4 -Additional Neural Network Concepts](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%202%20-%20Neural%20network%20training/W2%20-%20Quizz/W2%20-%20Quizz%204.pdf)
+
+ [**Week 3 - Advice for applying machine learning**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms)  
+
+ * **Week 3 - Lab**  
+[Optional lab 1: Model_Evaluation_and_Selection](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Optional%20lab/C2W3_Lab_01_Model_Evaluation_and_Selection.ipynb)  
+[Optional lab 2: Diagnosing_Bias_and_Variance](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Optional%20lab/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)  
+[Graded lab: Advice for applying machine learning](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms/W3%20-%20Assignment/C2_W3_Assignment.ipynb)
+
+
 
 
 
