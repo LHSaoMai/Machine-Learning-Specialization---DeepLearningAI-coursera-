@@ -5,6 +5,13 @@ This course was done in 2024.
 Offered in [**Coursera**](https://www.coursera.org/specializations/machine-learning-introduction)
 This Repository Contains Solution to the Assignments of the Machine Learning Specialization from deeplearning.ai on Coursera Taught by Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig
 
+## What you will learn 
+From coursera:
+* "Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)"
+* "Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods"
+* "Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection"
+* "Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model"
+
 ## **Course 1 - Supervised Machine Learning: Regression and Classification**  
 
 [**Week 1 - Introduction to machine learning**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%201%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification)
