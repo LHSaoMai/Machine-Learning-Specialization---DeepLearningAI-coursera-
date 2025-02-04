@@ -153,7 +153,7 @@ From coursera:
 
 
 ## **Disclaimer**  
-I made this repository as a reference. Please do not copy paste the solution as is. Thank you :)
+I made this repository as a reference. Please do not copy paste the solution as is. Thank you :) 
 All the sources are from **DeeplearningAI**
 
   
