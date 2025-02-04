@@ -3,6 +3,7 @@ This course was done in 2024.
 
 ## By Andrew Ng, Stanford University and DeepLearning.ai
 Offered in [**Coursera**](https://www.coursera.org/specializations/machine-learning-introduction)
+This Repository Contains Solution to the Assignments of the Machine Learning Specialization from deeplearning.ai on Coursera Taught by Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig
 
 ## **Course 1 - Supervised Machine Learning: Regression and Classification**  
 
