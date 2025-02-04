@@ -145,9 +145,8 @@ This Repository Contains Solution to the Assignments of the Machine Learning Spe
 
 
 
-
-
-
+## **Disclaimer**  
+I made this repository as a reference. Please do not copy paste the solution as is. Thank you :)
 
   
 
