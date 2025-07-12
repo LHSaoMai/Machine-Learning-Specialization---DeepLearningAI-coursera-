@@ -67,10 +67,7 @@ From coursera:
 
 [**Week 1 - Neural networks**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks)
 
-* **Week 1 - Lab**  
-[Optional lab 1: Neurons_and_Layers](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab01_Neurons_and_Layers.ipynb)  
-[Optional lab 2: CoffeeRoasting](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)  
-[Optional lab 3: CoffeeRoasting_Numpy](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Optional%20lab/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)  
+* **Week 1 - Lab**   
 [Graded lab: Neural Networks for Binary Classification](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%201%20-%20Neural%20Networks/W1%20-%20Assignment/C2_W1_Assignment.ipynb)
 
 
