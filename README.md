@@ -124,26 +124,14 @@ From coursera:
 
 [**Week 1 - Unsupervised learning**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%203%20-%20Advanced%20Learning%20Algorithms)  
 
-* **Week 1 - Lab**  
-[Graded lab 1: KMeans](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201%20-%20Unsupervised%20Learning/W1%20-%20Assignment/Lab%203%20-%20K-means%20Clustering/C3_W1_KMeans_Assignment.ipynb)  
-[Graded lab 2: Anomaly detection](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201%20-%20Unsupervised%20Learning/W1%20-%20Assignment/Lab%202%20-%20Anomaly%20detection/C3_W1_Anomaly_Detection.ipynb)
-
 * **Week 1 - Quizz**  
 [Quizz 1 - Clustering](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201%20-%20Unsupervised%20Learning/W1%20-%20Quizz/W1%20-%20Quizz%201.pdf)   
 [Quizz 2 -Anomaly detection](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%201%20-%20Unsupervised%20Learning/W1%20-%20Quizz/W1%20-%20Quizz%202.pdf)
 
 [**Week 2 - Recommender Systems**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%202%20-%20Recommender%20System)  
 
-* **Week 2 - Lab**  
-[Graded lab 1: Collaborative Filtering Recommender Systems](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%202%20-%20Recommender%20System/W2%20-%20Assignment/Lab%201%20-%20Collaborative%20Filtering%20Recommender%20Systems/C3_W2_Collaborative_RecSys_Assignment.ipynb)  
-[Graded lab 2:Deep Learning for Content-Based Filtering](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%202%20-%20Recommender%20System/W2%20-%20Assignment/Lab%202%20%3A%20Deep%20Learning%20for%20Content-Based%20Filtering/C3_W2_RecSysNN_Assignment.ipynb)  
-[Optional lab 1: PCA and data visualization](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%202%20-%20Recommender%20System/W2%20-%20Optional%20Lab/C3_W2_Lab01_PCA_Visualization_Examples.ipynb)
-
 [**Week 3 - Reinforcement learning**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning)  
 
-* **Week 3 - Lab**  
-[Optinal lab 1: State-action value functio](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning/W3%20-%20Optional%20Lab/State-action%20value%20function%20example.ipynb)   
-[Graded lab : Reinforcement learning](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning/W3%20-%20Assignment/C3_W3_A1_Assignment.ipynb)
 
 * **Week 3 - Quizz**  
 [Quizz 1 - Reinforcement learning introduction](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%203%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/Week%203%20-%20Reinforcement%20Learning/W3%20-%20Quizz/W3%20-%20Quizz%201.pdf)   
