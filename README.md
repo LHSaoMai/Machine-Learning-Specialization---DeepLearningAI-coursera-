@@ -110,11 +110,6 @@ From coursera:
 
 [**Week 4 - Decision Trees**](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/tree/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees)  
 
- * **Week 4 - Lab**  
-[Optional lab 1: Decision_Trees](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Optional%20Lab/C2_W4_Lab_01_Decision_Trees.ipynb)  
-[Optional lab 2: Tree_Ensemble](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Optional%20Lab/C2_W4_Lab_02_Tree_Ensemble.ipynb)  
-[Graded lab: Decision Trees](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Assignment/C2_W4_Decision_Tree_with_Markdown.ipynb)
-
 * **Week 4 - Quizz**  
 [Quizz 1 - Decision trees](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Quizz/W4%20-%20Quizz%201.pdf)   
 [Quizz 2 - Decision trees learning](https://github.com/LHSaoMai/Machine-Learning-Specialization---DeepLearningAI-coursera-/blob/main/Course%202%20-%20Advanced%20Learning%20Algorithms/Week%204%20-%20Decision%20trees/W4%20-%20Quizz/W4%20-%20Quizz%202.pdf)    
